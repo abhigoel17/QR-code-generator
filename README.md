@@ -1,5 +1,5 @@
 # QR-code-generator
-This Python app lets you whip up QR codes in no time. Just type in your text or paste a link, choose some colors you like, and tell it where to save. It makes folders if they aren't there, shows you what the code looks like before saving, and doesn't freak out if something goes wrong. Easy to use, great for a quick project, or something to show off in your portfolio.
+This Python app lets you whip up QR codes in no time. Just type in your text or paste a link, choose some colors you like, and tell it where to save. It makes folders if they aren't there, shows you what the code looks like before saving, and doesn't freak out if something goes wrong. Easy to use.
 
  ⚙️ What it does
 - ✅ Makes QR codes from any text, link, or info
